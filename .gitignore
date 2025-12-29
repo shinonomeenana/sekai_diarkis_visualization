@@ -1,0 +1,7 @@
+.DS_Store
+__pycache__/
+DiarkisUtils/__pycache__/
+server_config.py
+traffic.har
+traffic.pcap
+diarkis_auth_data.json
